@@ -4,7 +4,7 @@ import { Link, type DocumentHead } from "@builder.io/qwik-city";
 export default component$(() => {
   return (
     <>
-      <h1>Hi 👋</h1>
+      <h1>This page B</h1>
       <Link href="/a">Go to page A</Link>
     </>
   );
